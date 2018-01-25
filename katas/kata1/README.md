@@ -7,13 +7,13 @@ These lists A and B may contain duplicates. If there are multiple answers, outpu
 
 ## For example, given
 
-'''
+```
 A = [12, 28, 46, 32, 50]  B = [50, 12, 32, 46, 28]  
-'''
+```
 We should return
-'''
+```
 [1, 4, 3, 2, 0]  
-'''
+```
 as  P[0] = 1 because the  0th element of  A appears at  B[1], and  P[1] = 4 because the  1st element of  A appears at  B[4], and so on.
 ### Note:
 
