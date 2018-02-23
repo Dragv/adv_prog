@@ -7,6 +7,6 @@ value "Anything that the user want" = void *
 
 ## On class development of the project:
 
-![](https://raw.githubusercontent.com/Dragv/adv_prog/practicas/practica6/img1.jpg)
-![](https://raw.githubusercontent.com/Dragv/adv_prog/practicas/practica6/img1.jpg)
-![](https://raw.githubusercontent.com/Dragv/adv_prog/practicas/practica6/img1.jpg)
+![](https://raw.githubusercontent.com/Dragv/adv_prog/master/practicas/practica6/img1.jpg)
+![](https://raw.githubusercontent.com/Dragv/adv_prog/master/practicas/practica6/img2.jpg)
+![](https://raw.githubusercontent.com/Dragv/adv_prog/master/practicas/practica6/img3.jpg)
