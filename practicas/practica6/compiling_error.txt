@@ -1,0 +1,4 @@
+/Users/juancarlossanchez/Github/AdvancedProgrammingTC2025/practicas/practica04/hash.c:4:10: fatal error: 'hash.h' file not found
+#include "hash.h"
+         ^
+1 error generated.
